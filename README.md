@@ -32,7 +32,7 @@ _Web application that allows users to create events, invite guests and vendors, 
 ## Stretch Goals
 
 1. Make it so event creator can have a list of items for guests to bring that removes items as they're selected by guests.
-2. Have vendors
+2. Have vendor and guest roles for users to separate items guests are bringing from items vendors are selling.
 
 ## Known Bugs
 
