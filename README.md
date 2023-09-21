@@ -36,7 +36,7 @@ _Web application that allows users to create events, invite guests and vendors, 
 
 ## Known Bugs
 
-_No known bugs_
+* _Project is missing the .gif file that's supposed to play on the home page because it was too large to upload to github which messes up the home page display_
 
 ## Support and contact details
 
